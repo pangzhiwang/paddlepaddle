@@ -6,7 +6,7 @@
 
 人工智能 > 机器学习 > 深度学    如下图所示：
 
-![image-20200812102909754](C:\Users\10856\AppData\Roaming\Typora\typora-user-images\image-20200812102909754.png)
+![](https://github.com/pangzhiwang/paddlepaddle/raw/master/images/image-20200812102909754.png)
 
 ## 机器学习
 
